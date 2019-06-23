@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leticia Lavado on Laura Titolo</title>
+    <link>https://github.lauratitolo.io/authors/leticia-lavado/</link>
+    <description>Recent content in Leticia Lavado on Laura Titolo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://github.lauratitolo.io/authors/leticia-lavado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A constraint-based language for modelling intelligent environments</title>
+      <link>https://github.lauratitolo.io/publication/jrie2017/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.lauratitolo.io/publication/jrie2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
