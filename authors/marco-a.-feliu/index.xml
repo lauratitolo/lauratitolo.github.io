@@ -6,19 +6,10 @@
     <description>Recent content in Marco A. Feliu on Laura Titolo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 15:21:39 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 15:13:57 -0400</lastBuildDate>
     
 	    <atom:link href="https://github.lauratitolo.io/authors/marco-a.-feliu/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>FPRoCK</title>
-      <link>https://github.lauratitolo.io/project/fprock/</link>
-      <pubDate>Sun, 23 Jun 2019 15:21:39 -0400</pubDate>
-      
-      <guid>https://github.lauratitolo.io/project/fprock/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>PRECiSA</title>
@@ -53,6 +44,15 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://github.lauratitolo.io/publication/lopstr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPRoCK</title>
+      <link>https://github.lauratitolo.io/project/fprock/</link>
+      <pubDate>Sat, 23 Jun 2018 15:21:39 -0400</pubDate>
+      
+      <guid>https://github.lauratitolo.io/project/fprock/</guid>
       <description></description>
     </item>
     

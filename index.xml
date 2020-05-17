@@ -6,17 +6,35 @@
     <description>Recent content on Laura Titolo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 15:21:39 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 15:12:08 -0400</lastBuildDate>
     
 	    <atom:link href="https://github.lauratitolo.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>FPRoCK</title>
-      <link>https://github.lauratitolo.io/project/fprock/</link>
-      <pubDate>Sun, 23 Jun 2019 15:21:39 -0400</pubDate>
+      <title>NFM 2021</title>
+      <link>https://github.lauratitolo.io/post/nfm2021/</link>
+      <pubDate>Sun, 17 May 2020 15:12:08 -0400</pubDate>
       
-      <guid>https://github.lauratitolo.io/project/fprock/</guid>
+      <guid>https://github.lauratitolo.io/post/nfm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSV 2020</title>
+      <link>https://github.lauratitolo.io/post/nsv2020/</link>
+      <pubDate>Sun, 01 Mar 2020 15:39:25 -0400</pubDate>
+      
+      <guid>https://github.lauratitolo.io/post/nsv2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFM 2020</title>
+      <link>https://github.lauratitolo.io/post/nfm2020/</link>
+      <pubDate>Thu, 10 Oct 2019 15:32:51 -0400</pubDate>
+      
+      <guid>https://github.lauratitolo.io/post/nfm2020/</guid>
       <description></description>
     </item>
     
@@ -62,6 +80,15 @@
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://github.lauratitolo.io/publication/fm2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPRoCK</title>
+      <link>https://github.lauratitolo.io/project/fprock/</link>
+      <pubDate>Sat, 23 Jun 2018 15:21:39 -0400</pubDate>
+      
+      <guid>https://github.lauratitolo.io/project/fprock/</guid>
       <description></description>
     </item>
     

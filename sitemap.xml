@@ -3,43 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.lauratitolo.io/authors/</loc>
-    <lastmod>2019-06-23T15:21:39-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.lauratitolo.io/project/fprock/</loc>
-    <lastmod>2019-06-23T15:21:39-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://github.lauratitolo.io/</loc>
-    <lastmod>2019-06-23T15:21:39-04:00</lastmod>
+    <lastmod>2020-05-17T15:12:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.lauratitolo.io/authors/marco-a.-feliu/</loc>
-    <lastmod>2019-06-23T15:21:39-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://github.lauratitolo.io/post/nfm2021/</loc>
+    <lastmod>2020-05-17T15:12:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.lauratitolo.io/project/</loc>
-    <lastmod>2019-06-23T15:21:39-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://github.lauratitolo.io/post/</loc>
+    <lastmod>2020-05-17T15:12:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.lauratitolo.io/authors/rocco-salvia/</loc>
-    <lastmod>2019-06-23T15:21:39-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://github.lauratitolo.io/post/nsv2020/</loc>
+    <lastmod>2020-03-01T15:39:25-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.lauratitolo.io/authors/and-laura-titolo/</loc>
-    <lastmod>2019-06-23T15:21:39-04:00</lastmod>
+    <loc>https://github.lauratitolo.io/post/nfm2020/</loc>
+    <lastmod>2019-10-10T15:32:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.lauratitolo.io/authors/</loc>
+    <lastmod>2019-06-23T15:13:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,6 +47,12 @@
   </url>
   
   <url>
+    <loc>https://github.lauratitolo.io/authors/marco-a.-feliu/</loc>
+    <lastmod>2019-06-23T15:13:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://github.lauratitolo.io/authors/mariano-m.-moscato/</loc>
     <lastmod>2019-06-23T15:13:57-04:00</lastmod>
     <priority>0</priority>
@@ -64,6 +61,12 @@
   <url>
     <loc>https://github.lauratitolo.io/project/precisa/</loc>
     <lastmod>2019-06-23T15:13:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.lauratitolo.io/project/</loc>
+    <lastmod>2019-06-23T15:13:57-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -100,6 +103,12 @@
   </url>
   
   <url>
+    <loc>https://github.lauratitolo.io/authors/rocco-salvia/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://github.lauratitolo.io/authors/and-zvonimir-rakamaric/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -130,6 +139,17 @@
   <url>
     <loc>https://github.lauratitolo.io/authors/and-francois-bobot/</loc>
     <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.lauratitolo.io/project/fprock/</loc>
+    <lastmod>2018-06-23T15:21:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.lauratitolo.io/authors/and-laura-titolo/</loc>
+    <lastmod>2018-06-23T15:21:39-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -242,10 +262,6 @@
   <url>
     <loc>https://github.lauratitolo.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.lauratitolo.io/post/</loc>
   </url>
   
   <url>
