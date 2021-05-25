@@ -1,40 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Laura Titolo</title>
+    <title>Posts | Laura Titolo</title>
     <link>https://github.lauratitolo.io/post/</link>
-    <description>Recent content in Posts on Laura Titolo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 15:12:08 -0400</lastBuildDate>
+      <atom:link href="https://github.lauratitolo.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 15:12:08 -0400</lastBuildDate>
+    <image>
+      <url>https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://github.lauratitolo.io/post/</link>
+    </image>
     
-	    <atom:link href="https://github.lauratitolo.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>CPP 2022</title>
+      <link>https://github.lauratitolo.io/post/2022cpp/</link>
+      <pubDate>Mon, 24 May 2021 15:12:08 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/post/2022cpp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NFM 2021</title>
-      <link>https://github.lauratitolo.io/post/nfm2021/</link>
+      <link>https://github.lauratitolo.io/post/2021nfm/</link>
       <pubDate>Sun, 17 May 2020 15:12:08 -0400</pubDate>
-      
-      <guid>https://github.lauratitolo.io/post/nfm2021/</guid>
+      <guid>https://github.lauratitolo.io/post/2021nfm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NSV 2020</title>
-      <link>https://github.lauratitolo.io/post/nsv2020/</link>
+      <link>https://github.lauratitolo.io/post/2020nsv/</link>
       <pubDate>Sun, 01 Mar 2020 15:39:25 -0400</pubDate>
-      
-      <guid>https://github.lauratitolo.io/post/nsv2020/</guid>
+      <guid>https://github.lauratitolo.io/post/2020nsv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NFM 2020</title>
-      <link>https://github.lauratitolo.io/post/nfm2020/</link>
+      <link>https://github.lauratitolo.io/post/2020nfm/</link>
       <pubDate>Thu, 10 Oct 2019 15:32:51 -0400</pubDate>
-      
-      <guid>https://github.lauratitolo.io/post/nfm2020/</guid>
+      <guid>https://github.lauratitolo.io/post/2020nfm/</guid>
       <description></description>
     </item>
     

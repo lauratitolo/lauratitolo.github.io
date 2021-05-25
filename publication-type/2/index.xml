@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Laura Titolo</title>
+    <link>https://github.lauratitolo.io/publication-type/2/</link>
+      <atom:link href="https://github.lauratitolo.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://github.lauratitolo.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Formal analysis of the compact position reporting algorithm</title>
+      <link>https://github.lauratitolo.io/publication/2021fac/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2021fac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A constraint-based language for modelling intelligent environments</title>
+      <link>https://github.lauratitolo.io/publication/2017jrie/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2017jrie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A program analysis framework for tccp based on abstract interpretation</title>
+      <link>https://github.lauratitolo.io/publication/2017fac/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2017fac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Diagnosis for tccp using a Linear Temporal Logic</title>
+      <link>https://github.lauratitolo.io/publication/2014tplp/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2014tplp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abstract Interpretation Framework for Verification of Timed Concurrent Constraint Languages</title>
+      <link>https://github.lauratitolo.io/publication/2013tplp/</link>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2013tplp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Diagnosis for Timed Concurrent Constraint programs</title>
+      <link>https://github.lauratitolo.io/publication/2011tplp/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2011tplp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Laura Titolo</title>
+    <link>https://github.lauratitolo.io/publication-type/1/</link>
+      <atom:link href="https://github.lauratitolo.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://github.lauratitolo.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>From Requirements to Autonomous Flight: An Overview of the Monitoring ICAROUS Project</title>
+      <link>https://github.lauratitolo.io/publication/2020fmas/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2020fmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Generation of Guard-Stable Floating-Point Code</title>
+      <link>https://github.lauratitolo.io/publication/2020ifm/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2020ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provably Correct Floating-Point Implementation of a Point-in-Polygon Algorithm</title>
+      <link>https://github.lauratitolo.io/publication/2019fm/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2019fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed Real and Floating-Point Solver</title>
+      <link>https://github.lauratitolo.io/publication/2019nfm/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2019nfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eliminating Unstable Tests in Floating-Point Programs</title>
+      <link>https://github.lauratitolo.io/publication/2018lopstr/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2018lopstr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formally Verified Floating-Point Implementation of the Compact Position Reporting Algorithm</title>
+      <link>https://github.lauratitolo.io/publication/2018fm/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2018fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abstract Interpretation Framework for the Round-Off Error Analysis of Floating-Point Programs</title>
+      <link>https://github.lauratitolo.io/publication/2018vmcai/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2018vmcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Estimation of Verified Floating-Point Round-Off Errors via Static Analysis</title>
+      <link>https://github.lauratitolo.io/publication/2017safecomp/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2017safecomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Analysis of the Compact Position Reporting Algorithm</title>
+      <link>https://github.lauratitolo.io/publication/2017vstte/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2017vstte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Analysis of Universal Properties for tccp</title>
+      <link>https://github.lauratitolo.io/publication/2015lopstr/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2015lopstr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Hybrid Systems in Hy-tccp</title>
+      <link>https://github.lauratitolo.io/publication/2014ftscs/</link>
+      <pubDate>Fri, 07 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2014ftscs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Hybrid Systems in the Concurrent Constraint Paradigm</title>
+      <link>https://github.lauratitolo.io/publication/2014prole/</link>
+      <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2014prole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Effective Decision Procedure for LTL formulas with Constraints</title>
+      <link>https://github.lauratitolo.io/publication/2013wlpe/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2013wlpe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
