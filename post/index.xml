@@ -5,12 +5,28 @@
     <link>https://github.lauratitolo.io/post/</link>
       <atom:link href="https://github.lauratitolo.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 15:12:08 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 15:12:08 -0400</lastBuildDate>
     <image>
-      <url>https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://github.lauratitolo.io/post/</link>
     </image>
+    
+    <item>
+      <title>CAV 2022</title>
+      <link>https://github.lauratitolo.io/post/2022cav/</link>
+      <pubDate>Sat, 18 Dec 2021 15:12:08 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/post/2022cav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOAP 2022</title>
+      <link>https://github.lauratitolo.io/post/2022soap/</link>
+      <pubDate>Sat, 18 Dec 2021 15:12:08 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/post/2022soap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CPP 2022</title>

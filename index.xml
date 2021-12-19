@@ -7,7 +7,7 @@
     <description>Laura Titolo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Laura Titolo</title>
       <link>https://github.lauratitolo.io/</link>
     </image>
@@ -30,6 +30,30 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Compositional Proof Framework for FRETish Requirements</title>
+      <link>https://github.lauratitolo.io/publication/2022cpp/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://github.lauratitolo.io/publication/2022cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAV 2022</title>
+      <link>https://github.lauratitolo.io/post/2022cav/</link>
+      <pubDate>Sat, 18 Dec 2021 15:12:08 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/post/2022cav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOAP 2022</title>
+      <link>https://github.lauratitolo.io/post/2022soap/</link>
+      <pubDate>Sat, 18 Dec 2021 15:12:08 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/post/2022soap/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -93,6 +117,14 @@
       <link>https://github.lauratitolo.io/post/2020nfm/</link>
       <pubDate>Thu, 10 Oct 2019 15:32:51 -0400</pubDate>
       <guid>https://github.lauratitolo.io/post/2020nfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FRET Proof Framework</title>
+      <link>https://github.lauratitolo.io/project/fret-proof-framework/</link>
+      <pubDate>Sun, 23 Jun 2019 15:13:57 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/project/fret-proof-framework/</guid>
       <description></description>
     </item>
     
@@ -262,6 +294,14 @@ Three
       <link>https://github.lauratitolo.io/publication/2018fm/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://github.lauratitolo.io/publication/2018fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPR*</title>
+      <link>https://github.lauratitolo.io/project/cpr/</link>
+      <pubDate>Sat, 23 Jun 2018 15:21:39 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/project/cpr/</guid>
       <description></description>
     </item>
     
