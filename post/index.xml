@@ -5,12 +5,36 @@
     <link>https://github.lauratitolo.io/post/</link>
       <atom:link href="https://github.lauratitolo.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 15:12:08 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Apr 2022 15:12:08 -0400</lastBuildDate>
     <image>
       <url>https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://github.lauratitolo.io/post/</link>
     </image>
+    
+    <item>
+      <title>NASA Group Achivement award for CPR</title>
+      <link>https://github.lauratitolo.io/post/2022nasa_group_award/</link>
+      <pubDate>Sat, 16 Apr 2022 15:12:08 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/post/2022nasa_group_award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAS 2022</title>
+      <link>https://github.lauratitolo.io/post/2022sas/</link>
+      <pubDate>Fri, 15 Apr 2022 15:12:08 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/post/2022sas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOPSTR 2022</title>
+      <link>https://github.lauratitolo.io/post/2022lopstr/</link>
+      <pubDate>Thu, 14 Apr 2022 15:12:08 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/post/2022lopstr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CAV 2022</title>
