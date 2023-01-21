@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>FRET Proof Framework</title>
-      <link>https://github.lauratitolo.io/project/fret-proof-framework/</link>
-      <pubDate>Sun, 23 Jun 2019 15:13:57 -0400</pubDate>
-      <guid>https://github.lauratitolo.io/project/fret-proof-framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PRECiSA</title>
       <link>https://github.lauratitolo.io/project/precisa/</link>
       <pubDate>Sun, 23 Jun 2019 15:13:57 -0400</pubDate>
@@ -41,6 +33,14 @@
       <link>https://github.lauratitolo.io/project/fprock/</link>
       <pubDate>Sat, 23 Jun 2018 15:21:39 -0400</pubDate>
       <guid>https://github.lauratitolo.io/project/fprock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FRET Proof Framework</title>
+      <link>https://github.lauratitolo.io/project/fret-proof-framework/</link>
+      <pubDate>Sat, 23 Jun 2018 15:13:57 -0400</pubDate>
+      <guid>https://github.lauratitolo.io/project/fret-proof-framework/</guid>
       <description></description>
     </item>
     
