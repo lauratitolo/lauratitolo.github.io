@@ -726,7 +726,32 @@
       <div class="article-style">
         
           PRECiSA is a static analyzer that estimates the accumulated round-off error of floating-point programs.
-It automatically generates PVS proof certificates that guarantee the correctness of the error estimations with respect to the floating-point IEEE-754 standard.
+It automatically generates PVS proof certificates that guarantee the correctness of the error estimations with respect to the floating-point IEEE-754 standard. It is designed to support a compositional static analysis of the program and it support a large variety of operators and program constructs.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/project/reflow/" >ReFlow</a></h2>
+      <div class="article-style">
+        
+          ReFlow extracts floating-point C code from a PVS real numbers specification. The code is annotated with ACSL pre- and post-conditions that bound the accumulated round-off error.
+ReFlow can also instrument the C code to detect when the floating-point control flow diverges with respect to the ideal real numbers' one. 
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/project/vscode-precisa/" >VSCode-PRECiSA</a></h2>
+      <div class="article-style">
+        
+          VSCode-PRECiSA is a toolkit that integrates the PRECiSA floating-point round-off error analyzer into Visual Studio Code. The toolkit provides an intuitive graphical user interface and offers different analysis views for experimenting and reasoning about how floating-point errors affect the computed result of a program. 
         
       </div>
     </div>

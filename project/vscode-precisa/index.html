@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="PRECiSA is a static analyzer that estimates the accumulated round-off error of floating-point programs.&lt;br&gt; It automatically generates PVS proof certificates that guarantee the correctness of the error estimations with respect to the floating-point IEEE-754 standard. It is designed to support a compositional static analysis of the program and it support a large variety of operators and program constructs.">
+  <meta name="description" content="VSCode-PRECiSA is a toolkit that integrates the PRECiSA floating-point round-off error analyzer into Visual Studio Code. The toolkit provides an intuitive graphical user interface and offers different analysis views for experimenting and reasoning about how floating-point errors affect the computed result of a program. ">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://github.lauratitolo.io/project/precisa/">
+  <link rel="alternate" hreflang="en-us" href="https://github.lauratitolo.io/project/vscode-precisa/">
 
   
 
@@ -265,7 +265,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://github.lauratitolo.io/project/precisa/">
+  <link rel="canonical" href="https://github.lauratitolo.io/project/vscode-precisa/">
 
   
   
@@ -284,9 +284,9 @@
   <meta property="twitter:creator" content="@laura_titolo">
   
   <meta property="og:site_name" content="Laura Titolo">
-  <meta property="og:url" content="https://github.lauratitolo.io/project/precisa/">
-  <meta property="og:title" content="PRECiSA | Laura Titolo">
-  <meta property="og:description" content="PRECiSA is a static analyzer that estimates the accumulated round-off error of floating-point programs.&lt;br&gt; It automatically generates PVS proof certificates that guarantee the correctness of the error estimations with respect to the floating-point IEEE-754 standard. It is designed to support a compositional static analysis of the program and it support a large variety of operators and program constructs."><meta property="og:image" content="https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
+  <meta property="og:url" content="https://github.lauratitolo.io/project/vscode-precisa/">
+  <meta property="og:title" content="VSCode-PRECiSA | Laura Titolo">
+  <meta property="og:description" content="VSCode-PRECiSA is a toolkit that integrates the PRECiSA floating-point round-off error analyzer into Visual Studio Code. The toolkit provides an intuitive graphical user interface and offers different analysis views for experimenting and reasoning about how floating-point errors affect the computed result of a program. "><meta property="og:image" content="https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
@@ -314,16 +314,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://github.lauratitolo.io/project/precisa/"
+    "@id": "https://github.lauratitolo.io/project/vscode-precisa/"
   },
-  "headline": "PRECiSA",
+  "headline": "VSCode-PRECiSA",
   
   "datePublished": "2019-06-23T15:13:57-04:00",
   "dateModified": "2019-06-23T15:13:57-04:00",
   
   "author": {
     "@type": "Person",
-    "name": "Laura Titolo"
+    "name": "Paolo Masci"
   },
   
   "publisher": {
@@ -334,7 +334,7 @@
       "url": "https://github.lauratitolo.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "PRECiSA is a static analyzer that estimates the accumulated round-off error of floating-point programs.\u003cbr\u003e It automatically generates PVS proof certificates that guarantee the correctness of the error estimations with respect to the floating-point IEEE-754 standard. It is designed to support a compositional static analysis of the program and it support a large variety of operators and program constructs."
+  "description": "VSCode-PRECiSA is a toolkit that integrates the PRECiSA floating-point round-off error analyzer into Visual Studio Code. The toolkit provides an intuitive graphical user interface and offers different analysis views for experimenting and reasoning about how floating-point errors affect the computed result of a program. "
 }
 </script>
 
@@ -352,7 +352,7 @@
 
 
 
-  <title>PRECiSA | Laura Titolo</title>
+  <title>VSCode-PRECiSA | Laura Titolo</title>
 
 </head>
 
@@ -748,7 +748,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>PRECiSA</h1>
+  <h1>VSCode-PRECiSA</h1>
 
   
 
@@ -766,10 +766,10 @@
     
 
   <span >
+      Paolo Masci</span>, <span >
       Laura Titolo</span>, <span >
       Mariano M. Moscato</span>, <span >
-      Marco A. Feliu</span>, <span >
-      César A. Muñoz</span>
+      Marco A. Feliu</span>
   </div>
   
   
@@ -845,7 +845,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/nasa/PRECiSA" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/nasa/PRECiSA/tree/master/vscode-precisa" target="_blank" rel="noopener">
     <i class="fab fa-github mr-1"></i>
     Code
   </a>
@@ -885,7 +885,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://github.lauratitolo.io/project/precisa/&amp;text=PRECiSA" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://github.lauratitolo.io/project/vscode-precisa/&amp;text=VSCode-PRECiSA" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -898,7 +898,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://github.lauratitolo.io/project/precisa/&amp;t=PRECiSA" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://github.lauratitolo.io/project/vscode-precisa/&amp;t=VSCode-PRECiSA" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -911,7 +911,7 @@
       
       
       <li>
-        <a href="mailto:?subject=PRECiSA&amp;body=https://github.lauratitolo.io/project/precisa/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=VSCode-PRECiSA&amp;body=https://github.lauratitolo.io/project/vscode-precisa/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -924,7 +924,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://github.lauratitolo.io/project/precisa/&amp;title=PRECiSA" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://github.lauratitolo.io/project/vscode-precisa/&amp;title=VSCode-PRECiSA" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -937,7 +937,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=PRECiSA%20https://github.lauratitolo.io/project/precisa/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=VSCode-PRECiSA%20https://github.lauratitolo.io/project/vscode-precisa/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -950,7 +950,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://github.lauratitolo.io/project/precisa/&amp;title=PRECiSA" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://github.lauratitolo.io/project/vscode-precisa/&amp;title=VSCode-PRECiSA" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1025,441 +1025,6 @@
 
       
       
-      
-        <h2>Publications</h2>
-        
-          
-            
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/2020ifm/" >Automatic Generation of Guard-Stable Floating-Point Code</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Laura Titolo</span>, <span >
-      Mariano M. Moscato</span>, <span >
-      Marco A. Feliu</span>, <span >
-      and Cesar A. Muñoz</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2020ifm/2020iFM.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/2020ifm/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/precisa/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-63461-2_8" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/2018lopstr/" >Eliminating Unstable Tests in Floating-Point Programs</a>
-    </div>
-
-    
-    <a href="/publication/2018lopstr/"  class="summary-link">
-      <div class="article-style">
-        Round-off errors arising from the difference between real numbers and their floating-point representation cause the control flow of …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Laura Titolo</span>, <span >
-      César A. Muñoz</span>, <span >
-      Marco A. Feliu</span>, <span >
-      and Mariano M. Moscato</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2018lopstr/2018LOPSTR.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/2018lopstr/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/precisa/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-13838-7_10" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/2018vmcai/" >An Abstract Interpretation Framework for the Round-Off Error Analysis of Floating-Point Programs</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Laura Titolo</span>, <span >
-      Marco A. Feliu</span>, <span >
-      Mariano M. Moscato</span>, <span >
-      and Cesar A. Muñoz</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2018vmcai/2018VMCAI.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/2018vmcai/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/precisa/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-73721-8_24" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/2017safecomp/" >Automatic Estimation of Verified Floating-Point Round-Off Errors via Static Analysis</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Mariano M. Moscato</span>, <span >
-      Laura Titolo</span>, <span >
-      Aaron Dutle</span>, <span >
-      and Cesar A. Muñoz</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2017safecomp/2017SAFECOMP.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/2017safecomp/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/precisa/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-66266-4_14" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        
       
 
       
