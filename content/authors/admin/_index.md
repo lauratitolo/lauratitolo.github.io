@@ -69,6 +69,13 @@ education:
     date_start: 2005-09-12
 
 work:
+  - position: Lead Research Scientist
+    company_name: Code Metal
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-30
+    summary: |
+      - Development and application of formal methods techniques to ensure the quality of transpiled code for edge computing applications.
   - position: Research Scientist
     company_name: NASA LaRC
     company_url: ''
