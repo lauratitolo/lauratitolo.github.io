@@ -50,15 +50,23 @@ education:
   - area: PhD Computer Science
     institution: University of Udine, Italy
     year: 2014
+    date_start: 2014-04-14
+    date_end: 2011-01-01
   - area: Diploma, Scientific Class
     institution: Scuola Superiore, University of Udine, Italy
     year: 2011
+    date_start: 2011-09-01
+    date_end: 2005-09-12
   - area: MSc in Computer Science
     institution: University of Udine, Italy
     year: 2010
+    date_start: 2010-09-01
+    date_end: 2008-07-17
   - area: BSc in Computer Science
     institution: University of Udine, Italy
     year: 2008
+    date_start: 2008-07-17
+    date_end: 2005-09-12
 
 work:
   - position: Research Scientist
