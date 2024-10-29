@@ -1,0 +1,5 @@
+baseURL: https://lauratitolo.github.io/
+languageCode: en-us
+params:
+  contact:
+    email: laura@codemetal.ai
