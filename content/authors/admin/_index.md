@@ -187,7 +187,7 @@ I was the main developer of the [PRECiSA](https://github.com/nasa/PRECiSA) round
 In addition, I contributed to different PVS libraries for structured natural language requirements, hybrid systems' verification, and temporal logics.<br>
 At <b>Code Metal</b> I am applying formal verification techniques to improve thequality of automatically transpiled code for edge computing. 
 
-I am an active member of the formal methods and programming languages communities,and I have served as program committee chair and member in several international conferences.
+I am an active member of the formal methods and programming languages communities, and I have served as program committee chair and member in several international conferences.
 #### Upcoming events:
   - [NFM 2025](https://shemesh.larc.nasa.gov/nfm2025/) (General   Chair),
   - LOPSTR 2025 (PC co-chair),
