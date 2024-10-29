@@ -69,7 +69,7 @@ education:
     date_start: 2005-09-12
 
 work:
-  - position: Lead Research Scientist
+  - position: Principal Research Scientist
     company_name: Code Metal
     company_url: ''
     company_logo: ''
@@ -182,9 +182,9 @@ I received my Ph.D. in Computer Science from the [University of Udine](https://w
 I earned a Bachelor’s and a Master’s degree in Computer Science from the University of Udine, both received with full marks and honors (summa cum laude).
 
 My research focuses on different aspects and applications of formal methods.<br>
-At <b>NASA</b> I was developing new tools for the formal verification and analysis ofsafety-critical avionics applications. In particular, I developed and appliedrigorous techniques for improving the reliability of airspace software involvingfinite-precision computations.
-I was the main developer of the [PRECiSA](https://github.com/nasa/PRECiSA) round-offerror static analyzer for floating-point programs and the [ReFlow](https://github.comnasa/reflow) floating-point C code extractor. 
-In addition, I contributed to different PVS libraries for structured natural languagerequirements, hybrid systems' verification, and temporal logics.<br>
+At <b>NASA</b> I was developing new tools for the formal verification and analysis of safety-critical avionics applications. In particular, I developed and applied rigorous techniques for improving the reliability of airspace software involving finite-precision computations.
+I was the main developer of the [PRECiSA](https://github.com/nasa/PRECiSA) round-off error static analyzer for floating-point programs and the [ReFlow](https://github.comnasa/reflow) floating-point C code extractor. 
+In addition, I contributed to different PVS libraries for structured natural language requirements, hybrid systems' verification, and temporal logics.<br>
 At <b>Code Metal</b> I am applying formal verification techniques to improve thequality of automatically transpiled code for edge computing. 
 
 I am an active member of the formal methods and programming languages communities,and I have served as program committee chair and member in several international conferences.
