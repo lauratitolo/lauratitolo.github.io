@@ -185,8 +185,8 @@ My research focuses on different aspects and applications of formal methods.<br>
 At <b>NASA</b> I was developing new tools for the formal verification and analysis of safety-critical avionics applications. In particular, I developed and applied rigorous techniques for improving the reliability of airspace software involving finite-precision computations.
 I was the main developer of the [PRECiSA](https://github.com/nasa/PRECiSA) round-off error static analyzer for floating-point programs and the [ReFlow](https://github.comnasa/reflow) floating-point C code extractor. 
 In addition, I contributed to different PVS libraries for structured natural language requirements, hybrid systems' verification, and temporal logics.<br>
-At <b>Code Metal</b> I am applying formal verification techniques to improve thequality of automatically transpiled code for edge computing. 
-
+At <b>Code Metal</b> I am applying formal verification techniques to improve the quality of automatically transpiled code for edge computing. 
+ 
 I am an active member of the formal methods and programming languages communities, and I have served as program committee chair and member in several international conferences.
 #### Upcoming events:
   - [NFM 2025](https://shemesh.larc.nasa.gov/nfm2025/) (General   Chair),
