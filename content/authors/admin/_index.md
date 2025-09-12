@@ -189,11 +189,14 @@ At <b>Code Metal</b> I am applying formal verification techniques to improve the
  
 I am an active member of the formal methods and programming languages communities, and I have served as program committee chair and member in several international conferences.
 #### Upcoming events:
-  - [NFM 2025](https://shemesh.larc.nasa.gov/nfm2025/) (General   Chair),
-  - LOPSTR 2025 (PC co-chair),
-  - [CPP 2025](https://popl25.sigplan.org/home/CPP-2025) (PC),
-  - [PADL 2025](https://popl25.sigplan.org/home/PADL-2025)(PC)
+  - [POPL 2026](https://conf.researchr.org/home/POPL-2026) (PC)
+  - [GeCoIn 2025](https://gecoin-workshop.github.io/) (PC)
+  - [VSTTE 2025](https://systemf.epfl.ch/etc/vstte2025/) (PC)
 #### Past Events:
+[NFM 2025](https://shemesh.larc.nasa.gov/nfm2025/) (General   Chair),
+[LOPSTR 2025](https://lopstr.github.io/2025/) (PC co-chair),
+[CPP 2025](https://popl25.sigplan.org/home/CPP-2025) (PC),
+[PADL 2025](https://popl25.sigplan.org/home/PADL-2025)(PC)
 [NSAD 2024](https://2024.splashcon.org/home/nsad-2024) (PC),
 [FMICS 2024](https://fmics.inria.fr/2024/) (PC),
 [LOPSTR 2024](https://lopstr.github.io/2024/) (PC),
