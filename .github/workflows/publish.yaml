@@ -45,6 +45,8 @@ jobs:
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v4
+    - name: Install TailwindCSS
+      run: npm install -D @tailwindcss/cli @tailwindcss/typography
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
