@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Titolo</title>
-    <link>http://localhost:58974/</link>
-      <atom:link href="http://localhost:58974/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Titolo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:58974/media/icon_hu_8798ef2206e6c234.png</url>
+      <url>http://localhost:1313/media/icon_hu_8798ef2206e6c234.png</url>
       <title>Laura Titolo</title>
-      <link>http://localhost:58974/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:58974/event/example/</link>
+      <link>http://localhost:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/event/example/</guid>
+      <guid>http://localhost:1313/event/example/</guid>
       <description>&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
      data-callout=&#34;note&#34; 
      data-callout-metadata=&#34;&#34;&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Keynote @ ITP 2026</title>
-      <link>http://localhost:58974/post/2026itp/</link>
+      <link>http://localhost:1313/post/2026itp/</link>
       <pubDate>Tue, 30 Dec 2025 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2026itp/</guid>
+      <guid>http://localhost:1313/post/2026itp/</guid>
       <description>&lt;p&gt;I will give the keynote talk &amp;ldquo;Taming Floating-Point Rounding Errors with Proofs&amp;rdquo; at (
 ).&lt;/p&gt;
 </description>
@@ -53,9 +53,9 @@
     
     <item>
       <title>ITP 2026</title>
-      <link>http://localhost:58974/post/2026itp_pc/</link>
+      <link>http://localhost:1313/post/2026itp_pc/</link>
       <pubDate>Mon, 15 Dec 2025 12:00:00 -0400</pubDate>
-      <guid>http://localhost:58974/post/2026itp_pc/</guid>
+      <guid>http://localhost:1313/post/2026itp_pc/</guid>
       <description>&lt;p&gt;I am in the Program Committee of the 17th International Conference on Interactive Theorem Proving (
 ).&lt;/p&gt;
 </description>
@@ -63,9 +63,19 @@
     
     <item>
       <title>NFM 2026</title>
-      <link>http://localhost:58974/post/2026nfm_pc/</link>
+      <link>http://localhost:1313/post/2026nfm_pc/</link>
       <pubDate>Mon, 15 Dec 2025 12:00:00 -0400</pubDate>
-      <guid>http://localhost:58974/post/2026nfm_pc/</guid>
+      <guid>http://localhost:1313/post/2026nfm_pc/</guid>
+      <description>&lt;p&gt;I am in the Program Committee of the 18th NASA Formal Methods Symposium (
+).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NFM 2026</title>
+      <link>http://localhost:1313/post/2026nfm/</link>
+      <pubDate>Sat, 22 Feb 2025 12:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/post/2026nfm/</guid>
       <description>&lt;p&gt;I am in the Program Committee of the 18th NASA Formal Methods Symposium (
 ).&lt;/p&gt;
 </description>
@@ -73,18 +83,18 @@
     
     <item>
       <title>LOPSTR 2025</title>
-      <link>http://localhost:58974/post/2025lopstr/</link>
+      <link>http://localhost:1313/post/2025lopstr/</link>
       <pubDate>Tue, 01 Oct 2024 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2025lopstr/</guid>
+      <guid>http://localhost:1313/post/2025lopstr/</guid>
       <description>&lt;p&gt;I am a program co-chair, together with Santiago Escobar, of the 35nd International Symposium on Logic-based Program Synthesis and Transformation (LOPSTR 2025). Stay tuned for more details.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New position at Code Metal</title>
-      <link>http://localhost:58974/post/2024codemetal/</link>
+      <link>http://localhost:1313/post/2024codemetal/</link>
       <pubDate>Mon, 30 Sep 2024 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2024codemetal/</guid>
+      <guid>http://localhost:1313/post/2024codemetal/</guid>
       <description>&lt;p&gt;After 9 years at NASA LaRC, I have accepted a new position as Principal Research Scientist at 
 .
 Here I will be integrating formal methods techniques to improve the quality and reliability of transpiled code for edge computing applications.&lt;/p&gt;
@@ -93,17 +103,17 @@ Here I will be integrating formal methods techniques to improve the quality and 
     
     <item>
       <title>Rigorous Floating-Point Round-Off Error Analysis in PRECiSA 4.0</title>
-      <link>http://localhost:58974/publication/2024fm/</link>
+      <link>http://localhost:1313/publication/2024fm/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2024fm/</guid>
+      <guid>http://localhost:1313/publication/2024fm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PRECiSA</title>
-      <link>http://localhost:58974/project/precisa/</link>
+      <link>http://localhost:1313/project/precisa/</link>
       <pubDate>Mon, 09 Sep 2024 15:13:57 -0400</pubDate>
-      <guid>http://localhost:58974/project/precisa/</guid>
+      <guid>http://localhost:1313/project/precisa/</guid>
       <description>&lt;p&gt;PRECiSA is a static analyzer that estimates the accumulated round-off error of floating-point programs.&lt;/p&gt;
 &lt;p&gt;It automatically generates PVS proof certificates that guarantee the correctness of the error estimations with respect to the floating-point IEEE-754 standard. It is designed to support a compositional static analysis of the program and it supports a large variety of operators and program constructs.&lt;/p&gt;
 </description>
@@ -111,9 +121,9 @@ Here I will be integrating formal methods techniques to improve the quality and 
     
     <item>
       <title>ReFlow</title>
-      <link>http://localhost:58974/project/reflow/</link>
+      <link>http://localhost:1313/project/reflow/</link>
       <pubDate>Mon, 09 Sep 2024 15:13:57 -0400</pubDate>
-      <guid>http://localhost:58974/project/reflow/</guid>
+      <guid>http://localhost:1313/project/reflow/</guid>
       <description>&lt;p&gt;ReFlow extracts floating-point C code from a PVS real numbers specification. The code is annotated with ACSL pre- and post-conditions that bound the accumulated round-off error.&lt;/p&gt;
 &lt;p&gt;ReFlow can also instrument the C code to detect when the floating-point control flow diverges with respect to the ideal real numbers&amp;rsquo; one.&lt;/p&gt;
 </description>
@@ -121,9 +131,9 @@ Here I will be integrating formal methods techniques to improve the quality and 
     
     <item>
       <title>VSCode-PRECiSA</title>
-      <link>http://localhost:58974/project/vscode-precisa/</link>
+      <link>http://localhost:1313/project/vscode-precisa/</link>
       <pubDate>Mon, 09 Sep 2024 15:13:57 -0400</pubDate>
-      <guid>http://localhost:58974/project/vscode-precisa/</guid>
+      <guid>http://localhost:1313/project/vscode-precisa/</guid>
       <description>&lt;p&gt;VSCode-PRECiSA is a toolkit that integrates the PRECiSA floating-point round-off error analyzer into Visual Studio Code.&lt;/p&gt;
 &lt;p&gt;The toolkit provides an intuitive graphical user interface and offers different analysis views for experimenting and reasoning about how floating-point errors affect the computed result of a program.&lt;/p&gt;
 </description>
@@ -131,9 +141,9 @@ Here I will be integrating formal methods techniques to improve the quality and 
     
     <item>
       <title>NFM 2025</title>
-      <link>http://localhost:58974/post/2025nfm/</link>
+      <link>http://localhost:1313/post/2025nfm/</link>
       <pubDate>Mon, 02 Sep 2024 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2025nfm/</guid>
+      <guid>http://localhost:1313/post/2025nfm/</guid>
       <description>&lt;p&gt;I am General Chair of the 17th NASA Formal Methods Symposium (
 ) that will be held at the University of William and Mary (Williamsburg, VA, USA) June 11-13, 2025. Submissions are due on December 13, 2025.&lt;br&gt;
 The NASA Formal Methods Symposium is a forum to foster collaboration between theoreticians and practitioners from NASA, other government agencies, academia, and industry, with the goal of identifying challenges and providing solutions towards achieving assurance for such critical systems. The focus of this symposium is on formal techniques for software and system assurance for applications in space, aviation, robotics, and other NASA-relevant critical systems.&lt;br&gt;
@@ -150,9 +160,9 @@ Topics of interests include but are not limited to:&lt;/p&gt;
     
     <item>
       <title>CPP 2025</title>
-      <link>http://localhost:58974/post/2025padl/</link>
+      <link>http://localhost:1313/post/2025padl/</link>
       <pubDate>Fri, 30 Aug 2024 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2025padl/</guid>
+      <guid>http://localhost:1313/post/2025padl/</guid>
       <description>&lt;p&gt;I am a member of the Program Commitee of the 27th International Symposium on Practical Aspects of Declarative Languages (
 ).&lt;/p&gt;
 </description>
@@ -160,9 +170,9 @@ Topics of interests include but are not limited to:&lt;/p&gt;
     
     <item>
       <title>CPP 2025</title>
-      <link>http://localhost:58974/post/2025cpp/</link>
+      <link>http://localhost:1313/post/2025cpp/</link>
       <pubDate>Sat, 24 Aug 2024 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2025cpp/</guid>
+      <guid>http://localhost:1313/post/2025cpp/</guid>
       <description>&lt;p&gt;I am a member of the Program Commitee of the International Conference on Certified Programs and Proofs (
 ).&lt;/p&gt;
 </description>
@@ -170,59 +180,59 @@ Topics of interests include but are not limited to:&lt;/p&gt;
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:58974/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Temporal Differential Dynamic Logic Formal Embedding</title>
-      <link>http://localhost:58974/publication/2024cpp/</link>
+      <link>http://localhost:1313/publication/2024cpp/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2024cpp/</guid>
+      <guid>http://localhost:1313/publication/2024cpp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Provably Correct Floating-Point Implementation of Well Clear Avionics Concepts</title>
-      <link>http://localhost:58974/publication/2023fmcad/</link>
+      <link>http://localhost:1313/publication/2023fmcad/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2023fmcad/</guid>
+      <guid>http://localhost:1313/publication/2023fmcad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:58974/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FMICS 2023</title>
-      <link>http://localhost:58974/post/2023fmics/</link>
+      <link>http://localhost:1313/post/2023fmics/</link>
       <pubDate>Fri, 20 Jan 2023 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2023fmics/</guid>
+      <guid>http://localhost:1313/post/2023fmics/</guid>
       <description>&lt;p&gt;I am PC co-chair of the 28rd International Conference on Formal Methods for Industrial Critical Systems (FMICS 2023) together with Alessandro Cimatti.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NASA Group Achivement award for CPR</title>
-      <link>http://localhost:58974/post/2022nasa_group_award/</link>
+      <link>http://localhost:1313/post/2022nasa_group_award/</link>
       <pubDate>Sat, 16 Apr 2022 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2022nasa_group_award/</guid>
+      <guid>http://localhost:1313/post/2022nasa_group_award/</guid>
       <description>&lt;p&gt;Aaron Dutle, Mariano Moscato, César A. Muñoz, and myself have received the NASA Group Achivement Award for our work on the formal analysis of the Compact Position Reporting Algorithm (CPR).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FRET Proof Framework</title>
-      <link>http://localhost:58974/project/fret-proof-framework/</link>
+      <link>http://localhost:1313/project/fret-proof-framework/</link>
       <pubDate>Mon, 17 Jan 2022 15:13:57 -0400</pubDate>
-      <guid>http://localhost:58974/project/fret-proof-framework/</guid>
+      <guid>http://localhost:1313/project/fret-proof-framework/</guid>
       <description>&lt;p&gt;Rigorous PVS formalization of the Fretish structured natural language.&lt;/p&gt;
 &lt;p&gt;It includes a new denotational semantics and a proof of semantic equivalence between Fretish specifications and their temporal logic counterparts computed by Fret.&lt;/p&gt;
 </description>
@@ -230,17 +240,17 @@ Topics of interests include but are not limited to:&lt;/p&gt;
     
     <item>
       <title>A Compositional Proof Framework for FRETish Requirements</title>
-      <link>http://localhost:58974/publication/2022cpp/</link>
+      <link>http://localhost:1313/publication/2022cpp/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2022cpp/</guid>
+      <guid>http://localhost:1313/publication/2022cpp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOAP 2022</title>
-      <link>http://localhost:58974/post/2022soap/</link>
+      <link>http://localhost:1313/post/2022soap/</link>
       <pubDate>Sat, 18 Dec 2021 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2022soap/</guid>
+      <guid>http://localhost:1313/post/2022soap/</guid>
       <description>&lt;p&gt;I am co-chairing with 
  the 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis (
 ) co-located with 
@@ -250,180 +260,180 @@ Topics of interests include but are not limited to:&lt;/p&gt;
     
     <item>
       <title>Formal analysis of the compact position reporting algorithm</title>
-      <link>http://localhost:58974/publication/2021fac/</link>
+      <link>http://localhost:1313/publication/2021fac/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2021fac/</guid>
+      <guid>http://localhost:1313/publication/2021fac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Requirements to Autonomous Flight: An Overview of the Monitoring ICAROUS Project</title>
-      <link>http://localhost:58974/publication/2020fmas/</link>
+      <link>http://localhost:1313/publication/2020fmas/</link>
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2020fmas/</guid>
+      <guid>http://localhost:1313/publication/2020fmas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Generation of Guard-Stable Floating-Point Code</title>
-      <link>http://localhost:58974/publication/2020ifm/</link>
+      <link>http://localhost:1313/publication/2020ifm/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2020ifm/</guid>
+      <guid>http://localhost:1313/publication/2020ifm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NFM 2021</title>
-      <link>http://localhost:58974/post/2021nfm/</link>
+      <link>http://localhost:1313/post/2021nfm/</link>
       <pubDate>Sun, 17 May 2020 15:12:08 -0400</pubDate>
-      <guid>http://localhost:58974/post/2021nfm/</guid>
+      <guid>http://localhost:1313/post/2021nfm/</guid>
       <description>&lt;p&gt;I am PC-(co)chair of the 13th NASA Formal Methods Symposium (NFM 2021) together with Aaron Dutle and Mariano Moscato.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Provably Correct Floating-Point Implementation of a Point-in-Polygon Algorithm</title>
-      <link>http://localhost:58974/publication/2019fm/</link>
+      <link>http://localhost:1313/publication/2019fm/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2019fm/</guid>
+      <guid>http://localhost:1313/publication/2019fm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FPRoCK</title>
-      <link>http://localhost:58974/project/fprock/</link>
+      <link>http://localhost:1313/project/fprock/</link>
       <pubDate>Tue, 07 May 2019 15:21:39 -0400</pubDate>
-      <guid>http://localhost:58974/project/fprock/</guid>
+      <guid>http://localhost:1313/project/fprock/</guid>
       <description>&lt;p&gt;FPRoCK is a software library for checking satisfiability of a set of mixed real and floating-point constraints.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Mixed Real and Floating-Point Solver</title>
-      <link>http://localhost:58974/publication/2019nfm/</link>
+      <link>http://localhost:1313/publication/2019nfm/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2019nfm/</guid>
+      <guid>http://localhost:1313/publication/2019nfm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eliminating Unstable Tests in Floating-Point Programs</title>
-      <link>http://localhost:58974/publication/2018lopstr/</link>
+      <link>http://localhost:1313/publication/2018lopstr/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2018lopstr/</guid>
+      <guid>http://localhost:1313/publication/2018lopstr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Formally Verified Floating-Point Implementation of the Compact Position Reporting Algorithm</title>
-      <link>http://localhost:58974/publication/2018fm/</link>
+      <link>http://localhost:1313/publication/2018fm/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2018fm/</guid>
+      <guid>http://localhost:1313/publication/2018fm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CPR*</title>
-      <link>http://localhost:58974/project/cpr/</link>
+      <link>http://localhost:1313/project/cpr/</link>
       <pubDate>Sat, 23 Jun 2018 15:21:39 -0400</pubDate>
-      <guid>http://localhost:58974/project/cpr/</guid>
+      <guid>http://localhost:1313/project/cpr/</guid>
       <description>&lt;p&gt;CPR* is a formally verified C implementation of the Compact Position Reporting (CPR) algorithm, a key component of the ADS-B standard responsible for encoding and decoding aircraft positions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An Abstract Interpretation Framework for the Round-Off Error Analysis of Floating-Point Programs</title>
-      <link>http://localhost:58974/publication/2018vmcai/</link>
+      <link>http://localhost:1313/publication/2018vmcai/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2018vmcai/</guid>
+      <guid>http://localhost:1313/publication/2018vmcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Estimation of Verified Floating-Point Round-Off Errors via Static Analysis</title>
-      <link>http://localhost:58974/publication/2017safecomp/</link>
+      <link>http://localhost:1313/publication/2017safecomp/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2017safecomp/</guid>
+      <guid>http://localhost:1313/publication/2017safecomp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Formal Analysis of the Compact Position Reporting Algorithm</title>
-      <link>http://localhost:58974/publication/2017vstte/</link>
+      <link>http://localhost:1313/publication/2017vstte/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2017vstte/</guid>
+      <guid>http://localhost:1313/publication/2017vstte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A constraint-based language for modelling intelligent environments</title>
-      <link>http://localhost:58974/publication/2017jrie/</link>
+      <link>http://localhost:1313/publication/2017jrie/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2017jrie/</guid>
+      <guid>http://localhost:1313/publication/2017jrie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A program analysis framework for tccp based on abstract interpretation</title>
-      <link>http://localhost:58974/publication/2017fac/</link>
+      <link>http://localhost:1313/publication/2017fac/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2017fac/</guid>
+      <guid>http://localhost:1313/publication/2017fac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abstract Analysis of Universal Properties for tccp</title>
-      <link>http://localhost:58974/publication/2015lopstr/</link>
+      <link>http://localhost:1313/publication/2015lopstr/</link>
       <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2015lopstr/</guid>
+      <guid>http://localhost:1313/publication/2015lopstr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling Hybrid Systems in Hy-tccp</title>
-      <link>http://localhost:58974/publication/2014ftscs/</link>
+      <link>http://localhost:1313/publication/2014ftscs/</link>
       <pubDate>Fri, 07 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2014ftscs/</guid>
+      <guid>http://localhost:1313/publication/2014ftscs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Hybrid Systems in the Concurrent Constraint Paradigm</title>
-      <link>http://localhost:58974/publication/2014prole/</link>
+      <link>http://localhost:1313/publication/2014prole/</link>
       <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2014prole/</guid>
+      <guid>http://localhost:1313/publication/2014prole/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abstract Diagnosis for tccp using a Linear Temporal Logic</title>
-      <link>http://localhost:58974/publication/2014tplp/</link>
+      <link>http://localhost:1313/publication/2014tplp/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2014tplp/</guid>
+      <guid>http://localhost:1313/publication/2014tplp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards an Effective Decision Procedure for LTL formulas with Constraints</title>
-      <link>http://localhost:58974/publication/2013wlpe/</link>
+      <link>http://localhost:1313/publication/2013wlpe/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2013wlpe/</guid>
+      <guid>http://localhost:1313/publication/2013wlpe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Abstract Interpretation Framework for Verification of Timed Concurrent Constraint Languages</title>
-      <link>http://localhost:58974/publication/2013tplp/</link>
+      <link>http://localhost:1313/publication/2013tplp/</link>
       <pubDate>Tue, 23 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2013tplp/</guid>
+      <guid>http://localhost:1313/publication/2013tplp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abstract Diagnosis for Timed Concurrent Constraint programs</title>
-      <link>http://localhost:58974/publication/2011tplp/</link>
+      <link>http://localhost:1313/publication/2011tplp/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58974/publication/2011tplp/</guid>
+      <guid>http://localhost:1313/publication/2011tplp/</guid>
       <description></description>
     </item>
     

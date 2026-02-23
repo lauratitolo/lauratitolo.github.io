@@ -38,3 +38,21 @@
   display: none !important;
 }
 
+/* Keep text white in biography section (dark background) regardless of mode */
+.resume-biography h1,
+.resume-biography .text-primary-600,
+.resume-biography .text-primary-400,
+.resume-biography p.text-2xl,
+.resume-biography .text-gray-700,
+.resume-biography .text-lg {
+  color: white !important;
+}
+
+/* Keep interests badges readable on dark background */
+.resume-biography .bg-primary-50,
+.resume-biography span.inline-block {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  color: white !important;
+  border-color: rgba(255, 255, 255, 0.3) !important;
+}
+
