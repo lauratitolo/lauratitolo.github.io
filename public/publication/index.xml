@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Laura Titolo</title>
+    <link>http://localhost:58974/publication/</link>
+      <atom:link href="http://localhost:58974/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:58974/media/icon_hu_8798ef2206e6c234.png</url>
+      <title>Publications</title>
+      <link>http://localhost:58974/publication/</link>
+    </image>
+    
+    <item>
+      <title>Rigorous Floating-Point Round-Off Error Analysis in PRECiSA 4.0</title>
+      <link>http://localhost:58974/publication/2024fm/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2024fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Temporal Differential Dynamic Logic Formal Embedding</title>
+      <link>http://localhost:58974/publication/2024cpp/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2024cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Provably Correct Floating-Point Implementation of Well Clear Avionics Concepts</title>
+      <link>http://localhost:58974/publication/2023fmcad/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2023fmcad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Compositional Proof Framework for FRETish Requirements</title>
+      <link>http://localhost:58974/publication/2022cpp/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2022cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal analysis of the compact position reporting algorithm</title>
+      <link>http://localhost:58974/publication/2021fac/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2021fac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Requirements to Autonomous Flight: An Overview of the Monitoring ICAROUS Project</title>
+      <link>http://localhost:58974/publication/2020fmas/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2020fmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Generation of Guard-Stable Floating-Point Code</title>
+      <link>http://localhost:58974/publication/2020ifm/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2020ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provably Correct Floating-Point Implementation of a Point-in-Polygon Algorithm</title>
+      <link>http://localhost:58974/publication/2019fm/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2019fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed Real and Floating-Point Solver</title>
+      <link>http://localhost:58974/publication/2019nfm/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2019nfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eliminating Unstable Tests in Floating-Point Programs</title>
+      <link>http://localhost:58974/publication/2018lopstr/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2018lopstr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formally Verified Floating-Point Implementation of the Compact Position Reporting Algorithm</title>
+      <link>http://localhost:58974/publication/2018fm/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2018fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abstract Interpretation Framework for the Round-Off Error Analysis of Floating-Point Programs</title>
+      <link>http://localhost:58974/publication/2018vmcai/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2018vmcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Estimation of Verified Floating-Point Round-Off Errors via Static Analysis</title>
+      <link>http://localhost:58974/publication/2017safecomp/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2017safecomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Analysis of the Compact Position Reporting Algorithm</title>
+      <link>http://localhost:58974/publication/2017vstte/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2017vstte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A constraint-based language for modelling intelligent environments</title>
+      <link>http://localhost:58974/publication/2017jrie/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2017jrie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A program analysis framework for tccp based on abstract interpretation</title>
+      <link>http://localhost:58974/publication/2017fac/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2017fac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Analysis of Universal Properties for tccp</title>
+      <link>http://localhost:58974/publication/2015lopstr/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2015lopstr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Hybrid Systems in Hy-tccp</title>
+      <link>http://localhost:58974/publication/2014ftscs/</link>
+      <pubDate>Fri, 07 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2014ftscs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Hybrid Systems in the Concurrent Constraint Paradigm</title>
+      <link>http://localhost:58974/publication/2014prole/</link>
+      <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2014prole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Diagnosis for tccp using a Linear Temporal Logic</title>
+      <link>http://localhost:58974/publication/2014tplp/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2014tplp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Effective Decision Procedure for LTL formulas with Constraints</title>
+      <link>http://localhost:58974/publication/2013wlpe/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2013wlpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abstract Interpretation Framework for Verification of Timed Concurrent Constraint Languages</title>
+      <link>http://localhost:58974/publication/2013tplp/</link>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2013tplp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Diagnosis for Timed Concurrent Constraint programs</title>
+      <link>http://localhost:58974/publication/2011tplp/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58974/publication/2011tplp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

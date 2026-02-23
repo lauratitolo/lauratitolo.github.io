@@ -40,3 +40,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+PRECiSA is a static analyzer that estimates the accumulated round-off error of floating-point programs.
+
+It automatically generates PVS proof certificates that guarantee the correctness of the error estimations with respect to the floating-point IEEE-754 standard. It is designed to support a compositional static analysis of the program and it supports a large variety of operators and program constructs.

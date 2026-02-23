@@ -39,3 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Rigorous PVS formalization of the Fretish structured natural language.
+
+It includes a new denotational semantics and a proof of semantic equivalence between Fretish specifications and their temporal logic counterparts computed by Fret.

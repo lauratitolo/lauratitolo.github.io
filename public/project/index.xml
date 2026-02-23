@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Laura Titolo</title>
+    <link>http://localhost:58974/project/</link>
+      <atom:link href="http://localhost:58974/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 15:13:57 -0400</lastBuildDate>
+    <image>
+      <url>http://localhost:58974/media/icon_hu_8798ef2206e6c234.png</url>
+      <title>Projects</title>
+      <link>http://localhost:58974/project/</link>
+    </image>
+    
+    <item>
+      <title>PRECiSA</title>
+      <link>http://localhost:58974/project/precisa/</link>
+      <pubDate>Mon, 09 Sep 2024 15:13:57 -0400</pubDate>
+      <guid>http://localhost:58974/project/precisa/</guid>
+      <description>&lt;p&gt;PRECiSA is a static analyzer that estimates the accumulated round-off error of floating-point programs.&lt;/p&gt;
+&lt;p&gt;It automatically generates PVS proof certificates that guarantee the correctness of the error estimations with respect to the floating-point IEEE-754 standard. It is designed to support a compositional static analysis of the program and it supports a large variety of operators and program constructs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ReFlow</title>
+      <link>http://localhost:58974/project/reflow/</link>
+      <pubDate>Mon, 09 Sep 2024 15:13:57 -0400</pubDate>
+      <guid>http://localhost:58974/project/reflow/</guid>
+      <description>&lt;p&gt;ReFlow extracts floating-point C code from a PVS real numbers specification. The code is annotated with ACSL pre- and post-conditions that bound the accumulated round-off error.&lt;/p&gt;
+&lt;p&gt;ReFlow can also instrument the C code to detect when the floating-point control flow diverges with respect to the ideal real numbers&amp;rsquo; one.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VSCode-PRECiSA</title>
+      <link>http://localhost:58974/project/vscode-precisa/</link>
+      <pubDate>Mon, 09 Sep 2024 15:13:57 -0400</pubDate>
+      <guid>http://localhost:58974/project/vscode-precisa/</guid>
+      <description>&lt;p&gt;VSCode-PRECiSA is a toolkit that integrates the PRECiSA floating-point round-off error analyzer into Visual Studio Code.&lt;/p&gt;
+&lt;p&gt;The toolkit provides an intuitive graphical user interface and offers different analysis views for experimenting and reasoning about how floating-point errors affect the computed result of a program.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FRET Proof Framework</title>
+      <link>http://localhost:58974/project/fret-proof-framework/</link>
+      <pubDate>Mon, 17 Jan 2022 15:13:57 -0400</pubDate>
+      <guid>http://localhost:58974/project/fret-proof-framework/</guid>
+      <description>&lt;p&gt;Rigorous PVS formalization of the Fretish structured natural language.&lt;/p&gt;
+&lt;p&gt;It includes a new denotational semantics and a proof of semantic equivalence between Fretish specifications and their temporal logic counterparts computed by Fret.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FPRoCK</title>
+      <link>http://localhost:58974/project/fprock/</link>
+      <pubDate>Tue, 07 May 2019 15:21:39 -0400</pubDate>
+      <guid>http://localhost:58974/project/fprock/</guid>
+      <description>&lt;p&gt;FPRoCK is a software library for checking satisfiability of a set of mixed real and floating-point constraints.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CPR*</title>
+      <link>http://localhost:58974/project/cpr/</link>
+      <pubDate>Sat, 23 Jun 2018 15:21:39 -0400</pubDate>
+      <guid>http://localhost:58974/project/cpr/</guid>
+      <description>&lt;p&gt;CPR* is a formally verified C implementation of the Compact Position Reporting (CPR) algorithm, a key component of the ADS-B standard responsible for encoding and decoding aircraft positions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+/* Hide the Professional Summary heading and icon */
+.resume-biography .mb-12 > .flex.items-center.gap-4.mb-8:first-child {
+  display: none;
+}
+
+/* Make name more elegant - smaller and lighter */
+.resume-biography h1 {
+  font-size: 2.5rem !important;
+  font-weight: 600 !important;
+}
+@media (min-width: 1024px) {
+  .resume-biography h1 {
+    font-size: 3rem !important;
+  }
+}
+
+/* Hide dates in projects section and adjust grid */
+#projects time {
+  display: none !important;
+}
+#projects article {
+  display: block !important;
+}
+#projects article > div:first-child {
+  width: 100% !important;
+}
+
+/* Fix hover rectangle not overlapping with date column in news */
+#news article .md\:col-span-3 {
+  overflow: hidden;
+  border-radius: 0.75rem;
+  padding: 1rem;
+  margin: -1rem;
+}
+
+/* Hide Education section from biography */
+.resume-biography .mb-16:has(.grid) {
+  display: none !important;
+}
+

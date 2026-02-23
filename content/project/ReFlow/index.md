@@ -42,3 +42,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+ReFlow extracts floating-point C code from a PVS real numbers specification. The code is annotated with ACSL pre- and post-conditions that bound the accumulated round-off error.
+
+ReFlow can also instrument the C code to detect when the floating-point control flow diverges with respect to the ideal real numbers' one.

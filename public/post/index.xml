@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Laura Titolo</title>
+    <link>http://localhost:58974/post/</link>
+      <atom:link href="http://localhost:58974/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Dec 2025 15:12:08 -0400</lastBuildDate>
+    <image>
+      <url>http://localhost:58974/media/icon_hu_8798ef2206e6c234.png</url>
+      <title>News</title>
+      <link>http://localhost:58974/post/</link>
+    </image>
+    
+    <item>
+      <title>Keynote @ ITP 2026</title>
+      <link>http://localhost:58974/post/2026itp/</link>
+      <pubDate>Tue, 30 Dec 2025 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2026itp/</guid>
+      <description>&lt;p&gt;I will give the keynote talk &amp;ldquo;Taming Floating-Point Rounding Errors with Proofs&amp;rdquo; at (
+).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ITP 2026</title>
+      <link>http://localhost:58974/post/2026itp_pc/</link>
+      <pubDate>Mon, 15 Dec 2025 12:00:00 -0400</pubDate>
+      <guid>http://localhost:58974/post/2026itp_pc/</guid>
+      <description>&lt;p&gt;I am in the Program Committee of the 17th International Conference on Interactive Theorem Proving (
+).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NFM 2026</title>
+      <link>http://localhost:58974/post/2026nfm_pc/</link>
+      <pubDate>Mon, 15 Dec 2025 12:00:00 -0400</pubDate>
+      <guid>http://localhost:58974/post/2026nfm_pc/</guid>
+      <description>&lt;p&gt;I am in the Program Committee of the 18th NASA Formal Methods Symposium (
+).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LOPSTR 2025</title>
+      <link>http://localhost:58974/post/2025lopstr/</link>
+      <pubDate>Tue, 01 Oct 2024 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2025lopstr/</guid>
+      <description>&lt;p&gt;I am a program co-chair, together with Santiago Escobar, of the 35nd International Symposium on Logic-based Program Synthesis and Transformation (LOPSTR 2025). Stay tuned for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New position at Code Metal</title>
+      <link>http://localhost:58974/post/2024codemetal/</link>
+      <pubDate>Mon, 30 Sep 2024 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2024codemetal/</guid>
+      <description>&lt;p&gt;After 9 years at NASA LaRC, I have accepted a new position as Principal Research Scientist at 
+.
+Here I will be integrating formal methods techniques to improve the quality and reliability of transpiled code for edge computing applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NFM 2025</title>
+      <link>http://localhost:58974/post/2025nfm/</link>
+      <pubDate>Mon, 02 Sep 2024 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2025nfm/</guid>
+      <description>&lt;p&gt;I am General Chair of the 17th NASA Formal Methods Symposium (
+) that will be held at the University of William and Mary (Williamsburg, VA, USA) June 11-13, 2025. Submissions are due on December 13, 2025.&lt;br&gt;
+The NASA Formal Methods Symposium is a forum to foster collaboration between theoreticians and practitioners from NASA, other government agencies, academia, and industry, with the goal of identifying challenges and providing solutions towards achieving assurance for such critical systems. The focus of this symposium is on formal techniques for software and system assurance for applications in space, aviation, robotics, and other NASA-relevant critical systems.&lt;br&gt;
+Topics of interests include but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advances in Formal Methods – Formal verification, model checking, and static analysis; interactive and automated theorem proving; program and specification synthesis, code transformation and generation; run-time verification and test case generation; techniques and algorithms for scaling formal methods; design for verification and correct-by-design techniques; requirements generation, specification, and validation.&lt;/li&gt;
+&lt;li&gt;Integration of Formal Methods – Use of ML techniques in formal methods; integration of formal methods and software engineering; integration of diverse formal methods techniques; integration of formal methods with simulation, analysis, and test approaches.&lt;/li&gt;
+&lt;li&gt;Formal Methods in Practice – Experience reports on applications of formal methods in industry; use of formal methods in education; applications of formal methods to concurrent and distributed systems, human-machine systems, autonomous systems, and fault-detection, diagnostics, and prognostics systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Submit your paper 
+!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CPP 2025</title>
+      <link>http://localhost:58974/post/2025padl/</link>
+      <pubDate>Fri, 30 Aug 2024 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2025padl/</guid>
+      <description>&lt;p&gt;I am a member of the Program Commitee of the 27th International Symposium on Practical Aspects of Declarative Languages (
+).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CPP 2025</title>
+      <link>http://localhost:58974/post/2025cpp/</link>
+      <pubDate>Sat, 24 Aug 2024 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2025cpp/</guid>
+      <description>&lt;p&gt;I am a member of the Program Commitee of the International Conference on Certified Programs and Proofs (
+).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FMICS 2023</title>
+      <link>http://localhost:58974/post/2023fmics/</link>
+      <pubDate>Fri, 20 Jan 2023 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2023fmics/</guid>
+      <description>&lt;p&gt;I am PC co-chair of the 28rd International Conference on Formal Methods for Industrial Critical Systems (FMICS 2023) together with Alessandro Cimatti.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NASA Group Achivement award for CPR</title>
+      <link>http://localhost:58974/post/2022nasa_group_award/</link>
+      <pubDate>Sat, 16 Apr 2022 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2022nasa_group_award/</guid>
+      <description>&lt;p&gt;Aaron Dutle, Mariano Moscato, César A. Muñoz, and myself have received the NASA Group Achivement Award for our work on the formal analysis of the Compact Position Reporting Algorithm (CPR).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOAP 2022</title>
+      <link>http://localhost:58974/post/2022soap/</link>
+      <pubDate>Sat, 18 Dec 2021 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2022soap/</guid>
+      <description>&lt;p&gt;I am co-chairing with 
+ the 11th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis (
+) co-located with 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NFM 2021</title>
+      <link>http://localhost:58974/post/2021nfm/</link>
+      <pubDate>Sun, 17 May 2020 15:12:08 -0400</pubDate>
+      <guid>http://localhost:58974/post/2021nfm/</guid>
+      <description>&lt;p&gt;I am PC-(co)chair of the 13th NASA Formal Methods Symposium (NFM 2021) together with Aaron Dutle and Mariano Moscato.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -14,6 +14,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      headings:
+        about: " "
       # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
@@ -85,6 +87,32 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: date-title-summary
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -115,7 +143,7 @@ sections:
           - project
         exclude_featured: false
     design:
-      view: cards
+      view: date-title-summary
   - block: resume-experience
     id: experience
     content:
@@ -125,36 +153,7 @@ sections:
         view: title-summary
       filters:
         folders:
-          - experience  
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+          - experience
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

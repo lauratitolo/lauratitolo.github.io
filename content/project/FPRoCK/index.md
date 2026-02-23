@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+FPRoCK is a software library for checking satisfiability of a set of mixed real and floating-point constraints.

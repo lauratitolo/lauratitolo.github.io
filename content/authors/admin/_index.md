@@ -75,7 +75,7 @@ work:
     company_logo: ''
     date_start: 2024-09-30
     summary: |
-      - Development and application of formal methods techniques to ensure the quality of transpiled code for edge computing applications.
+      - Development and application of formal methods techniques to ensure the quality and reliability of LLM-based code transpilation pipelines.
   - position: Research Scientist
     company_name: NASA LaRC
     company_url: ''
@@ -182,17 +182,19 @@ I received my Ph.D. in Computer Science from the [University of Udine](https://w
 I earned a Bachelor’s and a Master’s degree in Computer Science from the University of Udine, both received with full marks and honors (summa cum laude).
 
 My research focuses on different aspects and applications of formal methods.<br>
-At <b>NASA</b> I was developing new tools for the formal verification and analysis of safety-critical avionics applications. In particular, I developed and applied rigorous techniques for improving the reliability of airspace software involving finite-precision computations.
+At <b>Code Metal</b>, I am applying formal verification techniques to ensure the correctness and reliability of LLM-based code transpilation for edge computing, rapid prototyping, and code modernization applications. 
+At <b>NASA</b>, I was developing new tools for the formal verification and analysis of safety-critical avionics applications. In particular, I developed and applied rigorous techniques for improving the reliability of airspace software involving finite-precision computations.
 I was the main developer of the [PRECiSA](https://github.com/nasa/PRECiSA) round-off error static analyzer for floating-point programs and the [ReFlow](https://github.comnasa/reflow) floating-point C code extractor. 
 In addition, I contributed to different PVS libraries for structured natural language requirements, hybrid systems' verification, and temporal logics.<br>
-At <b>Code Metal</b> I am applying formal verification techniques to improve the quality of automatically transpiled code for edge computing. 
- 
+
 I am an active member of the formal methods and programming languages communities, and I have served as program committee chair and member in several international conferences.
 #### Upcoming events:
-  - [POPL 2026](https://conf.researchr.org/home/POPL-2026) (PC)
-  - [GeCoIn 2025](https://gecoin-workshop.github.io/) (PC)
-  - [VSTTE 2025](https://systemf.epfl.ch/etc/vstte2025/) (PC)
+  - [NFM 2026](https://nfm2026.github.io/) (PC)
+  - [ITP 2026](https://itp-conference-2026.github.io/index.html) (PC)
 #### Past Events:
+[POPL 2026](https://conf.researchr.org/home/POPL-2026) (PC)
+[GeCoIn 2025](https://gecoin-workshop.github.io/) (PC)
+[VSTTE 2025](https://systemf.epfl.ch/etc/vstte2025/) (PC)
 [NFM 2025](https://shemesh.larc.nasa.gov/nfm2025/) (General   Chair),
 [LOPSTR 2025](https://lopstr.github.io/2025/) (PC co-chair),
 [CPP 2025](https://popl25.sigplan.org/home/CPP-2025) (PC),

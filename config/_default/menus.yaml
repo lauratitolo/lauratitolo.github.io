@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: /#papers
     weight: 11
+  - name: CV
+    url: uploads/Laura_CV.pdf
+    weight: 50
   # - name: Service
   #   url: /#service
   #   weight: 12

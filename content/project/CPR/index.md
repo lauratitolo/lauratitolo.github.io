@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+CPR* is a formally verified C implementation of the Compact Position Reporting (CPR) algorithm, a key component of the ADS-B standard responsible for encoding and decoding aircraft positions.
